@@ -1,0 +1,65 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{Índice de Figuras}{3}{}%
+\contentsline {section}{CAPÍTULO I}{1}{}%
+\contentsline {subsection}{\numberline {1}INTRODUCCIÓN}{1}{}%
+\contentsline {subsubsection}{\numberline {1.1}ANTECEDENTES}{1}{}%
+\contentsline {subsubsection}{\numberline {1.2}PLANTEAMIENTO DEL PROBLEMA}{2}{}%
+\contentsline {paragraph}{\numberline {1.2.1}Formulación del problema}{2}{}%
+\contentsline {subsubsection}{\numberline {1.3}OBJETIVOS DE LA INVESTIGACIÓN}{3}{}%
+\contentsline {paragraph}{\numberline {1.3.1}Objetivo General}{3}{}%
+\contentsline {paragraph}{\numberline {1.3.2}Objetivos específicos}{3}{}%
+\contentsline {subsubsection}{\numberline {1.4}JUSTIFICACIÓN}{4}{}%
+\contentsline {paragraph}{\numberline {1.4.1}Justificación práctica}{4}{}%
+\contentsline {paragraph}{\numberline {1.4.2}Justificación teórica}{5}{}%
+\contentsline {paragraph}{\numberline {1.4.3}Justificación social}{5}{}%
+\contentsline {paragraph}{\numberline {1.4.4}Justificación económica}{6}{}%
+\contentsline {subsubsection}{\numberline {1.5}DELIMITACIÓN DE LA INVESTIGACIÓN}{7}{}%
+\contentsline {paragraph}{\numberline {1.5.1}Temporal}{7}{}%
+\contentsline {paragraph}{\numberline {1.5.2}Geográfica}{7}{}%
+\contentsline {subsubsection}{\numberline {1.6}METODOLOGÍA}{8}{}%
+\contentsline {paragraph}{\numberline {1.6.1}Enfoque de la investigación}{8}{}%
+\contentsline {paragraph}{\numberline {1.6.2}Tipos de investigación}{8}{}%
+\contentsline {paragraph}{\numberline {1.6.3}Métodos de investigación}{8}{}%
+\contentsline {paragraph}{\numberline {1.6.4}Técnicas de investigación}{9}{}%
+\contentsline {paragraph}{\numberline {1.6.5}Instrumentos de investigación}{10}{}%
+\contentsline {section}{CAPÍTULO II}{11}{}%
+\contentsline {subsection}{\numberline {2}MARCO TEÓRICO}{11}{}%
+\contentsline {subsubsection}{\numberline {2.1}Marco conceptual}{11}{}%
+\contentsline {paragraph}{\numberline {2.1.1}\textbf {Sistemas de información}}{11}{}%
+\contentsline {paragraph}{\numberline {2.1.2}\textbf {Base de datos relacionales}}{11}{}%
+\contentsline {paragraph}{\numberline {2.1.3}\textbf {Sistemas de gestión para gimnasios}}{11}{}%
+\contentsline {paragraph}{\numberline {2.1.4}\textbf {Gestión de relaciones con clientes (CRM)}}{12}{}%
+\contentsline {paragraph}{\numberline {2.1.5}\textbf {Control de acceso y seguridad}}{12}{}%
+\contentsline {paragraph}{\numberline {2.1.6}\textbf {Gestión de membresías y facturación}}{12}{}%
+\contentsline {paragraph}{\numberline {2.1.7}\textbf {Análisis de datos y reportería}}{13}{}%
+\contentsline {paragraph}{\numberline {2.1.8}\textbf {XAMPP (Entorno de desarrollo)}}{13}{}%
+\contentsline {paragraph}{\numberline {2.1.9}\textbf {HTML}}{14}{}%
+\contentsline {paragraph}{\numberline {2.1.10}\textbf {CSS}}{14}{}%
+\contentsline {paragraph}{\numberline {2.1.11}\textbf {SQL}}{14}{}%
+\contentsline {paragraph}{\numberline {2.1.12}\textbf {LaTeX}}{15}{}%
+\contentsline {subsubsection}{\numberline {2.2}Marco institucional}{16}{}%
+\contentsline {paragraph}{\numberline {2.2.1}\textbf {Contexto de la industria del fitness}}{16}{}%
+\contentsline {paragraph}{\numberline {2.2.2}\textbf {Características del Gimnasio "New Evolution Dino's Gym"}}{16}{}%
+\contentsline {paragraph}{\numberline {2.2.3}\textbf {Requerimientos específicos del sector}}{16}{}%
+\contentsline {section}{CAPÍTULO III}{17}{}%
+\contentsline {subsection}{\numberline {3}PROPUESTA}{17}{}%
+\contentsline {subsubsection}{\numberline {3.1}Ingeniería del proyecto}{17}{}%
+\contentsline {paragraph}{\numberline {3.1.1}Análisis de requerimientos}{17}{}%
+\contentsline {subsubsection}{\numberline {3.2}Implementación de la propuesta}{18}{}%
+\contentsline {paragraph}{\numberline {3.2.1}DER}{18}{}%
+\contentsline {paragraph}{\numberline {3.2.2}SQL}{19}{}%
+\contentsline {paragraph}{\numberline {3.2.3}Inserción de datos}{22}{}%
+\contentsline {paragraph}{\numberline {3.2.4}Sistema de gestión}{25}{}%
+\contentsline {section}{CAPÍTULO IV}{30}{}%
+\contentsline {subsection}{\numberline {4}CONCLUSIONES Y RECOMENDACIONES}{30}{}%
+\contentsline {subsubsection}{\numberline {4.1}Conclusiones}{30}{}%
+\contentsline {paragraph}{\numberline {4.1.1}En relación al análisis de requerimientos funcionales y de información:}{30}{}%
+\contentsline {paragraph}{\numberline {4.1.2}Respecto al diseño del modelo de datos:}{30}{}%
+\contentsline {paragraph}{\numberline {4.1.3}En cuanto a la implementación en MySQL:}{30}{}%
+\contentsline {paragraph}{\numberline {4.1.4}Sobre la optimización del procesamiento de consultas:}{31}{}%
+\contentsline {paragraph}{\numberline {4.1.5}Impacto general del proyecto:}{31}{}%
+\contentsline {subsubsection}{\numberline {4.2}Recomendaciones}{31}{}%
+\contentsline {paragraph}{\numberline {4.2.1}Respaldos y seguridad:}{31}{}%
+\contentsline {paragraph}{\numberline {4.2.2}Expansión funcional:}{31}{}%
+\contentsline {paragraph}{\numberline {4.2.3}Análisis de datos:}{32}{}%
+\contentsline {section}{BIBLIOGRAFÍA}{33}{}%
