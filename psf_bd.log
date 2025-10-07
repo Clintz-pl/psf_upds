@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.24)  26 SEP 2025 15:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.24)  26 SEP 2025 19:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -491,31 +491,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 278--281
  []
 
 
-
-[15]
-
-[16]
-Underfull \hbox (badness 10000) in paragraph at lines 302--305
+Underfull \hbox (badness 10000) in paragraph at lines 282--285
 
  []
 
 
 
+[15]
+
+[16]
+
 [17]
-<der.png, id=70, 522.753pt x 395.67825pt>
+Underfull \hbox (badness 10000) in paragraph at lines 305--308
+
+ []
+
+
+
+[18]
+<der.png, id=73, 522.753pt x 395.67825pt>
 File: der.png Graphic file (type png)
 <use der.png>
-Package pdftex.def Info: der.png  used on input line 318.
+Package pdftex.def Info: der.png  used on input line 321.
 (pdftex.def)             Requested size: 366.24527pt x 277.21439pt.
 
 
-[18 <./der.png>]
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 325.
+[19 <./der.png>]
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 328.
  (C:\Users\ASUS RYZEN 5\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-
-[19]
 
 [20]
 
@@ -526,140 +531,142 @@ File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 [23]
 
 [24]
-<admin.png, id=96, 1156.32pt x 650.43pt>
+
+[25]
+<admin.png, id=99, 1156.32pt x 650.43pt>
 File: admin.png Graphic file (type png)
 <use admin.png>
-Package pdftex.def Info: admin.png  used on input line 504.
+Package pdftex.def Info: admin.png  used on input line 507.
 (pdftex.def)             Requested size: 366.24527pt x 206.00803pt.
-<dashboard.png, id=97, 1156.32pt x 650.43pt>
+<dashboard.png, id=100, 1156.32pt x 650.43pt>
 File: dashboard.png Graphic file (type png)
 <use dashboard.png>
-Package pdftex.def Info: dashboard.png  used on input line 512.
+Package pdftex.def Info: dashboard.png  used on input line 515.
 (pdftex.def)             Requested size: 366.24527pt x 206.00803pt.
 
 
-[25 <./admin.png> <./dashboard.png>]
-<clientes.png, id=103, 1156.32pt x 650.43pt>
+[26 <./admin.png> <./dashboard.png>]
+<clientes.png, id=106, 1156.32pt x 650.43pt>
 File: clientes.png Graphic file (type png)
 <use clientes.png>
-Package pdftex.def Info: clientes.png  used on input line 521.
+Package pdftex.def Info: clientes.png  used on input line 524.
 (pdftex.def)             Requested size: 366.24527pt x 206.00803pt.
-<planes.png, id=104, 1156.32pt x 650.43pt>
+<planes.png, id=107, 1156.32pt x 650.43pt>
 File: planes.png Graphic file (type png)
 <use planes.png>
-Package pdftex.def Info: planes.png  used on input line 529.
+Package pdftex.def Info: planes.png  used on input line 532.
 (pdftex.def)             Requested size: 366.24527pt x 206.00803pt.
 
 
-[26 <./clientes.png> <./planes.png>]
-<productos.png, id=110, 1156.32pt x 650.43pt>
+[27 <./clientes.png> <./planes.png>]
+<productos.png, id=113, 1156.32pt x 650.43pt>
 File: productos.png Graphic file (type png)
 <use productos.png>
-Package pdftex.def Info: productos.png  used on input line 538.
+Package pdftex.def Info: productos.png  used on input line 541.
 (pdftex.def)             Requested size: 366.24527pt x 206.00803pt.
-<ventas.png, id=111, 1156.32pt x 650.43pt>
+<ventas.png, id=114, 1156.32pt x 650.43pt>
 File: ventas.png Graphic file (type png)
 <use ventas.png>
-Package pdftex.def Info: ventas.png  used on input line 546.
+Package pdftex.def Info: ventas.png  used on input line 549.
 (pdftex.def)             Requested size: 366.24527pt x 206.00803pt.
 
 
-[27 <./productos.png> <./ventas.png>]
-<asistencias.png, id=117, 1156.32pt x 650.43pt>
+[28 <./productos.png> <./ventas.png>]
+<asistencias.png, id=121, 1156.32pt x 650.43pt>
 File: asistencias.png Graphic file (type png)
 <use asistencias.png>
-Package pdftex.def Info: asistencias.png  used on input line 555.
+Package pdftex.def Info: asistencias.png  used on input line 558.
 (pdftex.def)             Requested size: 366.24527pt x 206.00803pt.
-<equipos.png, id=118, 1156.32pt x 650.43pt>
+<equipos.png, id=122, 1156.32pt x 650.43pt>
 File: equipos.png Graphic file (type png)
 <use equipos.png>
-Package pdftex.def Info: equipos.png  used on input line 563.
+Package pdftex.def Info: equipos.png  used on input line 566.
 (pdftex.def)             Requested size: 366.24527pt x 206.00803pt.
 
 
-[28 <./asistencias.png> <./equipos.png>]
-<inscripciones.png, id=125, 1156.32pt x 650.43pt>
+[29 <./asistencias.png> <./equipos.png>]
+<inscripciones.png, id=128, 1156.32pt x 650.43pt>
 File: inscripciones.png Graphic file (type png)
 <use inscripciones.png>
-Package pdftex.def Info: inscripciones.png  used on input line 572.
+Package pdftex.def Info: inscripciones.png  used on input line 575.
 (pdftex.def)             Requested size: 366.24527pt x 206.00803pt.
 
 
-[29 <./inscripciones.png>]
-
-[30]
-Underfull \hbox (badness 10000) in paragraph at lines 597--598
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 599--600
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 601--602
-
- []
-
-
+[30 <./inscripciones.png>]
 
 [31]
-Underfull \hbox (badness 10000) in paragraph at lines 603--605
+Underfull \hbox (badness 10000) in paragraph at lines 600--601
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 602--603
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 604--605
 
  []
 
 
 
 [32]
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 653.
- (C:\Users\ASUS RYZEN 5\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 659--660
-[]\OT1/ptm/m/n/10 Microsoft. (2024). \OT1/ptm/m/it/10 Fun-da-men-tos de la nor-ma-li-za-ci[]on de ba-ses de da-tos\OT1/ptm/m/n/10 . Re-cu-pe-ra-do de
+Underfull \hbox (badness 10000) in paragraph at lines 606--608
+
  []
 
 
 
 [33]
-Underfull \hbox (badness 5771) in paragraph at lines 665--666
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 656.
+ (C:\Users\ASUS RYZEN 5\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 662--663
+[]\OT1/ptm/m/n/10 Microsoft. (2024). \OT1/ptm/m/it/10 Fun-da-men-tos de la nor-ma-li-za-ci[]on de ba-ses de da-tos\OT1/ptm/m/n/10 . Re-cu-pe-ra-do de
+ []
+
+
+
+[34]
+Underfull \hbox (badness 5771) in paragraph at lines 668--669
 []\OT1/ptm/m/n/10 Trainingym. (2024). \OT1/ptm/m/it/10 Ten-den-cias tec-nol[]ogi-cas en la in-dus-tria del fit-ness 2024\OT1/ptm/m/n/10 . Re-cu-pe-ra-do de
  []
 
 
-Underfull \hbox (badness 2229) in paragraph at lines 668--669
+Underfull \hbox (badness 2229) in paragraph at lines 671--672
 []\OT1/ptm/m/n/10 SoftwarePara. (2025). \OT1/ptm/m/it/10 Soft-wa-re pa-ra gim-na-sios: 8 gran-des pro-gra-mas de ges-ti[]on\OT1/ptm/m/n/10 . Re-cu-pe-ra-do de
  []
 
 
-Underfull \hbox (badness 6110) in paragraph at lines 671--672
+Underfull \hbox (badness 6110) in paragraph at lines 674--675
 []\OT1/ptm/m/n/10 Clupik. (2022). \OT1/ptm/m/it/10 C[]omo ele-gir el me-jor CRM pa-ra tu or-ga-ni-za-ci[]on de-por-ti-va\OT1/ptm/m/n/10 . Re-cu-pe-ra-do de
  []
 
 
-Underfull \hbox (badness 3158) in paragraph at lines 677--678
+Underfull \hbox (badness 3158) in paragraph at lines 680--681
 []\OT1/ptm/m/n/10 Avigilon. (2023). \OT1/ptm/m/it/10 Gu[]^^Pa de sis-te-mas de con-trol de ac-ce-so 24/7 pa-ra gim-na-sios\OT1/ptm/m/n/10 . Re-cu-pe-ra-do de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 680--681
+Underfull \hbox (badness 10000) in paragraph at lines 683--684
 []\OT1/ptm/m/n/10 Apache Friends. (2024). \OT1/ptm/m/it/10 XAMPP Apa-che + Ma-riaDB + PHP + Perl\OT1/ptm/m/n/10 . Re-cu-pe-ra-do de
  []
 
 
-Underfull \hbox (badness 2245) in paragraph at lines 683--684
+Underfull \hbox (badness 2245) in paragraph at lines 686--687
 []\OT1/ptm/m/n/10 Mozilla De-ve-lo-per Net-work. (2024). \OT1/ptm/m/it/10 HTML: Len-gua-je de eti-que-tas de hi-per-tex-to\OT1/ptm/m/n/10 . Re-cu-pe-ra-do de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 686--687
+Underfull \hbox (badness 10000) in paragraph at lines 689--690
 []\OT1/ptm/m/n/10 Mozilla De-ve-lo-per Net-work. (2024). \OT1/ptm/m/it/10 CSS: Ho-jas de Es-ti-lo en Cas-ca-da\OT1/ptm/m/n/10 . Re-cu-pe-ra-do de
  []
 
 
 
-[34] (psf_bd.aux
+[35] (psf_bd.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 )
@@ -669,17 +676,17 @@ L3 programming layer <2025-09-02>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 8033 strings out of 468130
- 127528 string characters out of 5427209
+ 8034 strings out of 468130
+ 127542 string characters out of 5427209
  1307275 words of memory out of 5000000
- 36543 multiletter control sequences out of 15000+600000
+ 36544 multiletter control sequences out of 15000+600000
  649012 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,12n,77p,693b,2152s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/ASUS RYZEN 5/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrb8a.pfb><C:/Users/ASUS RYZEN 5/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/ASUS RYZEN 5/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/ASUS RYZEN 5/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/ASUS RYZEN 5/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on psf_bd.pdf (37 pages, 2725658 bytes).
+Output written on psf_bd.pdf (38 pages, 2728143 bytes).
 PDF statistics:
- 172 PDF objects out of 1000 (max. 8388607)
+ 175 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  56 words of extra memory for PDF output out of 10000 (max. 10000000)
 

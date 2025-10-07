@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1758914078.72055 "c:/Users/ASUS RYZEN 5/Documents/UPDS/psf_upds/psf_bd.tex" "psf_bd.pdf" "psf_bd" 1758914082.52061 0
+["pdflatex"] 1758929469.98439 "c:/Users/ASUS RYZEN 5/Documents/UPDS/psf_upds/psf_bd.tex" "psf_bd.pdf" "psf_bd" 1758929477.17947 0
   "C:/Users/ASUS RYZEN 5/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1758913471 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/ASUS RYZEN 5/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1758758144 13290390 185449e104d14feee0e34871452b03ea ""
   "C:/Users/ASUS RYZEN 5/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -85,7 +85,7 @@
   "C:/Users/ASUS RYZEN 5/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "admin.png" 1758900661 634862 7c7944e059e84c27849b782dbecabdc5 ""
   "asistencias.png" 1758900614 307192 6cf218ae4daffeb373f622a6d45f7398 ""
-  "c:/Users/ASUS RYZEN 5/Documents/UPDS/psf_upds/psf_bd.tex" 1758914073 58009 c3c6240462dcd8b2af3371cfec9d7ea9 ""
+  "c:/Users/ASUS RYZEN 5/Documents/UPDS/psf_upds/psf_bd.tex" 1758929460 59366 28db050c8928dbb0583686df8d697ad6 ""
   "clientes.png" 1758901232 332853 4ac2349a9de9d866c3d20cd544b3db87 ""
   "dashboard.png" 1758900516 390468 3706734d1400639789af6d066d81aa70 ""
   "der.png" 1758894589 119601 5a658e7b6bc55b54271b7015d0fc5616 ""
@@ -94,10 +94,10 @@
   "logo_upds.png" 1685560428 920320 d2ff3004df492fa299f48f09d17e2e80 ""
   "planes.png" 1758900560 293382 41dbe43ab7f8ae2245ef66ad2277a50f ""
   "productos.png" 1758900581 305922 05d292b3da39dd185f4f550528a469a9 ""
-  "psf_bd.aux" 1758914082 10589 0f63d33ed8b2a002b89e58d0f4627bfc "pdflatex"
-  "psf_bd.lof" 1758914082 971 ac901c2dfb8a6d29ea5ec4e2ad82755a "pdflatex"
-  "psf_bd.tex" 1758914073 58009 c3c6240462dcd8b2af3371cfec9d7ea9 ""
-  "psf_bd.toc" 1758914082 4971 de5cd7062450d16330ce133430293c11 "pdflatex"
+  "psf_bd.aux" 1758929476 10726 b0e59af2d4d7880e813549a388cc11c1 "pdflatex"
+  "psf_bd.lof" 1758929476 971 626765d8a3ea9934915c44fa6766af0c "pdflatex"
+  "psf_bd.tex" 1758929460 59366 28db050c8928dbb0583686df8d697ad6 ""
+  "psf_bd.toc" 1758929476 5039 ebf68fdde20e9cb6ace7cd5df5ac869a "pdflatex"
   "ventas.png" 1758900598 289967 14f71a84f80bb64179add5daa61f32e0 ""
   (generated)
   "psf_bd.aux"
