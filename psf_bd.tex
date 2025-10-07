@@ -21,7 +21,6 @@
 \renewcommand{\baselinestretch}{1.5}
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{1em}
-\justifying
 
 %Configuración de colores para el código
 \lstset{
@@ -80,7 +79,7 @@
     \vspace{0.5cm} 
     INGENIERÍA DE SISTEMAS\\
     \vspace{1cm}
-    SISTEMA DE REGISTRO DE CLIENTES PARA \textbf{NEW GENERATION DINOS GYM}
+    SISTEMA DE REGISTRO DE CLIENTES PARA \textbf{NEW EVLOUTION DINO'S GYM}
 }
 \author{
     Cerezo Plata Abimelec \\
@@ -108,8 +107,8 @@
 \clearpage
 
 % Índice de figuras
+
 \listoffigures
-\addcontentsline{toc}{section}{Índice de Figuras}
 \thispagestyle{empty}
 \newpage
 \clearpage
@@ -123,10 +122,12 @@
 
 \subsection{INTRODUCCIÓN}
 \subsubsection{ANTECEDENTES}
+\justifying{
 Los sistemas de gestión de bases de datos se han convertido en herramientas fundamentales para la administración eficiente de gimnasios, permitiendo optimizar procesos de registro, control de membresías, programación de actividades y seguimiento de clientes. En la actualidad, la digitalización de estos procesos es crucial para mejorar la experiencia del usuario y la gestión operativa. Este proyecto socioformativo busca diseñar e implementar una base de datos integral para un gimnasio, incorporando campos esenciales como nombre, apellido, cédula de identidad (CI), número de contacto, entre otros.\\
 Los sistemas de gestión para gimnasios han evolucionado desde registros manuales hacia bases de datos relacionales que integran múltiples aspectos de la operación. Proyectos documentados como el "Diseño e implementación de un sistema de información para ingreso de Usuario de Gym Elite" destacan la importancia de un sistema web que permita un control más eficiente de la información de clientes, rutinas asignadas y avances (Ordoñez Molina, 2019). Este proyecto se enfatizó la necesidad de digitalizar procesos para mejorar la eficiencia operativa y la satisfacción del cliente.\\
 Otro proyecto que fue documentado como “Sistema de Gestión de Gimnasios”, este proyecto busco automatizar la gestión administrador del gimnasio mediante una aplicación web. Este incluye un análisis del sistema, si es funcional o no.\\
 Entonces una implementación de una base de datos bien estructurada es fundamental para la gestión eficiente de un gimnasio. Basándose en los antecedentes revisados, este proyecto socioformativo puede desarrollar un sistema que integre información de socios, actividades, membresías y pagos, con características de seguridad y actualizaciones en tiempo real.
+}
 \newpage
 
 \subsubsection{PLANTEAMIENTO DEL PROBLEMA}
@@ -140,23 +141,23 @@ El crecimiento del gimnasio y la diversificación de sus servicios requieren una
 \textbf{¿Cómo mejorar el control, acceso rápido y la actualización confiable de los datos, facilitando así una mejor administración y atención personalizada?}\\
 \subsubsection{OBJETIVOS DE LA INVESTIGACIÓN}
 \paragraph{Objetivo General}
-Implementar un sistema de base de datos para DINOS GYM que permita gestionar de manera eficiente y segura la información de clientes, membresías, pagos y asistencia, con el propósito de optimizar la administración del gimnasio y mejorar la atención personalizada a los socios.\\
+Implementar un sistema de base de datos para DINO'S GYM que permita gestionar de manera eficiente y segura la información de clientes, membresías, pagos y asistencia, con el propósito de optimizar la administración del gimnasio y mejorar la atención personalizada a los socios.\\
 \paragraph{Objetivos específicos}
 \begin{itemize}
-    \item Analizar los requerimientos funcionales y de información necesarios para gestionar los datos de DINOS GYM.
+    \item Analizar los requerimientos funcionales y de información necesarios para gestionar los datos de NEW EVLOUTION DINO'S GYM.
     \item Diseñar un modelo de datos que refleje las entidades y relaciones clave del gimnasio, incluyendo clientes, membresías, pagos y asistencia.
-    \item Crear la estructura de la base de datos en un sistema gestor como MySQL o phpMyAdmin
+    \item Conseguir mejorar la integridad para la información cambiando el método de registro.
     \item Lograr un procesado más ágil de las consultas realizadas a la base de datos.
 \end{itemize}
 \newpage
 \subsubsection{JUSTIFICACIÓN}
 Para el correcto desempeño de cualquier entidad o empresa, incluida una instalación deportiva, la administración eficaz de la información es un elemento esencial. La gestión actual de DINOS GYM se enfrenta a varias res-tricciones vinculadas con la administración manual o desorganizada de da-tos fundamentales, como el control de asistencia, pagos y membresías, así como la información sobre sus clientes. Estos déficits no solo causan demo-ras en la atención, sino que además favorecen los errores y obstaculizan la toma de decisiones fundamentadas en datos confiables.\\
 La digitalización de procesos y el progreso tecnológico en los años recientes han comprobado que la puesta en marcha de sistemas de gestión a través de bases de datos es un método eficaz para mejorar la organización interna de los gimnasios. Estos sistemas posibilitan la administración de enormes cantidades de datos, aseguran la integridad y seguridad de los mismos y hacen posible que procesos administrativos, que antes necesitaban una gran inversión de tiempo y trabajo manual, sean automatizados.\\
-Para optimizar la eficiencia operativa del gimnasio, es fundamental crear una base de datos para DINOS GYM. Un sistema apropiado permitirá gestionar de forma más rápida y exacta los datos de los socios, sus pagos y asistencias, además de producir reportes automáticos que respalden el control financiero y la planificación estratégica. Asimismo, se podrá brindar un servicio más individualizado, conservando detalles sobre rutinas y avances físicos que optimicen la experiencia del cliente y su satisfacción.\\
+Para optimizar la eficiencia operativa del gimnasio, es fundamental crear una base de datos para NEW EVLOUTION DINO'S GYM. Un sistema apropiado permitirá gestionar de forma más rápida y exacta los datos de los socios, sus pagos y asistencias, además de producir reportes automáticos que respalden el control financiero y la planificación estratégica. Asimismo, se podrá brindar un servicio más individualizado, conservando detalles sobre rutinas y avances físicos que optimicen la experiencia del cliente y su satisfacción.\\
 Desde una perspectiva académica y formativa, este proyecto representa una experiencia valiosa para aplicar los conocimientos adquiridos en el área de bases de datos durante el desarrollo de la carrera de sistemas. Además, fomenta competencias relacionadas con el análisis de requerimientos, diseño de modelos de datos, implementación de sistemas y pruebas funcionales, aspectos indispensables para la formación profesional.
 
 \paragraph{Justificación práctica}
-El proyecto de desarrollo de una base de datos para DINOS GYM beneficiará directamente al personal administrativo y a los socios del gimnasio. El personal podrá gestionar de manera más eficiente y ordenada la información de los clientes, membresías, pagos y control de asistencia, reduciendo tiempos y minimizando errores causados por procesos manuales o sistemas poco estructurados.\\
+El proyecto de desarrollo de una base de datos para NEW EVLOUTION DINO'S GYM beneficiará directamente al personal administrativo y a los socios del gimnasio. El personal podrá gestionar de manera más eficiente y ordenada la información de los clientes, membresías, pagos y control de asistencia, reduciendo tiempos y minimizando errores causados por procesos manuales o sistemas poco estructurados.\\
 Los socios serán beneficiados porque podrán recibir una atención más rápida y personalizada gracias al acceso inmediato a sus rutinas de entrenamiento, historial de membresía y pagos. Esto también posibilitará una comunicación más eficaz y un mejor seguimiento de su progreso físico, lo cual incrementa la satisfacción y la fidelidad.\\
 El resultado de esta investigación, que es la base de datos implementada, constituye una respuesta práctica y específica para optimizar la gestión interna de DINOS GYM, mejorando los recursos y aumentando el nivel del servicio prestado a sus clientes.\\
 
@@ -166,13 +167,13 @@ Este sistema se basa en el diseño de bases de datos relacionales, que incluye l
 La gestión de bases de datos agiliza procesos operativos, mejora la precisión de la información y facilita la toma de decisiones al proporcionar datos confiables y oportunos. Además, proyectos similares, como GymTEC, demuestran la aplicabilidad de este enfoque en la administración de gimnasios, incluyendo la gestión de sucursales, empleados, inventario y clases (Rodriguez, 2023) .  
 
 \paragraph{Justificación social}
-El desarrollo de una base de datos para DINOS GYM beneficiará a varios individuos y grupos sociales que, de manera directa o indirecta, tienen relación con la operación del gimnasio.\\ 
+El desarrollo de una base de datos para NEW EVLOUTION DINO'S GYM beneficiará a varios individuos y grupos sociales que, de manera directa o indirecta, tienen relación con la operación del gimnasio.\\ 
 Los clientes o socios del gimnasio, sobre todo, podrán acceder a una administración más organizada y efectiva de su información, lo cual resultará en un servicio más expedito, individualizado y de mayor calidad. Esto ayuda a promover hábitos saludables y bienestar físico, factores que influyen de manera positiva en la calidad de vida de la comunidad.\\
-Adicionalmente, DINOS GYM será capaz de crear estrategias enfocadas en la promoción del deporte y la salud al tener datos exactos y fiables, lo que mejorará su influencia en la sociedad.\\ 
+Adicionalmente, NEW EVLOUTION DINO'S GYM será capaz de crear estrategias enfocadas en la promoción del deporte y la salud al tener datos exactos y fiables, lo que mejorará su influencia en la sociedad.\\ 
 Esto supone una contribución precisa a resolver problemas sociales vinculados con el sedentarismo y las enfermedades relacionadas, al permitir que se acceda con mayor facilidad a servicios deportivos más organizados y enfocados en las necesidades de sus usuarios.
 \newpage
 \paragraph{Justificación económica}
-Para DINOS GYM, la puesta en marcha de una base de datos es una inversión estratégica que tiene un impacto económico importante, ya sea en la optimización de los costos como en la creación de ingresos.\\ 
+Para NEW EVLOUTION DINO'S GYM, la puesta en marcha de una base de datos es una inversión estratégica que tiene un impacto económico importante, ya sea en la optimización de los costos como en la creación de ingresos.\\ 
 Cuando se automatizan la administración de clientes, los pagos, las membresías y la asistencia, el gimnasio tiene la posibilidad de disminuir significativamente el trabajo administrativo relacionado con tareas manuales que requieren tiempo y recursos. Esto implica un ahorro directo en términos de costos operativos.
 El sistema propiciará una facturación más precisa y ágil, reduciendo los errores que podrían dar lugar a pérdidas financieras debido a cobros equivocados o demoras en los pagos.\\ 
 La generación automatizada de informes posibilitará una supervisión más eficiente de los pagos pendientes, los ingresos y los vencimientos, lo que optimiza la administración del flujo de caja y favorece la estabilidad económica del gimnasio.\\
@@ -181,10 +182,10 @@ Si se mejora la rapidez y exactitud en la gestión, también aumentará la satis
 \newpage
 \subsubsection{DELIMITACIÓN DE LA INVESTIGACIÓN}
 \paragraph{Temporal}
-El período destinado para la elaboración y desarrollo del proyecto "Desarrollo de una base de datos para DINOS GYM" será de dos meses, comprendidos entre septiembre y diciembre de 2025. Durante este tiempo se realizarán todas las fases necesarias, incluyendo el análisis de requerimientos, diseño del modelo de datos, implementación de la base de datos, pruebas funcionales y documentación final del proyecto.
+El período destinado para la elaboración y desarrollo del proyecto "Desarrollo de una base de datos para NEW EVLOUTION DINO'S GYM" será de dos meses, comprendidos entre septiembre y diciembre de 2025. Durante este tiempo se realizarán todas las fases necesarias, incluyendo el análisis de requerimientos, diseño del modelo de datos, implementación de la base de datos, pruebas funcionales y documentación final del proyecto.
 
 \paragraph{Geográfica}
-La investigación y desarrollo del proyecto "Desarrollo de una base de datos para DINOS GYM" se realizará tomando como referencia el gimnasio ubicado en la avenida Miguel Peredo Argandoña sector Univalle, en la ciudad de Sucre, Bolivia. Esta será el área geográfica principal para el análisis y aplicación práctica de la base de datos desarrollada.
+La investigación y desarrollo del proyecto "Desarrollo de una base de datos para NEW EVLOUTION DINO'S GYM" se realizará tomando como referencia el gimnasio ubicado en la avenida Miguel Peredo Argandoña sector Univalle, en la ciudad de Sucre, Bolivia. Esta será el área geográfica principal para el análisis y aplicación práctica de la base de datos desarrollada.
 \newpage
 
 \subsubsection{METODOLOGÍA}
@@ -282,6 +283,14 @@ La implementación de SQL en el proyecto permite realizar operaciones complejas 
 LaTeX es un sistema de composición de textos, orientado especialmente a la creación de libros, documentos científicos y técnicos que contengan fórmulas matemáticas. LaTeX está formado por un gran conjunto de macros de TeX, escritas por Leslie Lamport en 1984, con la intención de facilitar el uso del lenguaje de composición tipográfica TeX, creado por Donald Knuth (Lamport, 2023).\\
 LaTeX se basa en la idea de que es mejor dejar el diseño del documento a los diseñadores de documentos, y permitir a los autores seguir escribiendo documentos. En LaTeX uno simplemente indica la estructura lógica y semántica del documento, y LaTeX se deriva de esta estructura el formato que debe tener finalmente (Oetiker, Partl, Hyna and Schlegl, 2024).\\
 El uso de LaTeX para la documentación del proyecto asegura un formato profesional y consistente, especialmente importante para documentos técnicos y académicos que requieren precisión en la presentación de fórmulas, código y diagramas.\\
+\paragraph{\textbf{Xubuntu 22.04 LTS}}
+Xubuntu es una distribución de Linux basada en Ubuntu que utiliza el entorno de escritorio Xfce. Xubuntu es un sistema operativo elegante, fácil de usar y está configurado con un ligero pero versátil escritorio (Xubuntu Team, 2024).\\
+Xubuntu 22.04 LTS (Jammy Jellyfish) es una versión de soporte extendido (Long Term Support) que recibe actualizaciones de seguridad y mantenimiento hasta abril de 2027. Esta versión LTS es ideal para servidores y entornos de producción debido a su estabilidad y soporte prolongado (Canonical Ltd., 2024).\\
+La selección de Xubuntu 22.04 LTS como sistema operativo para el servidor se fundamenta en su estabilidad, bajo consumo de recursos, seguridad robusta y compatibilidad completa con las herramientas de desarrollo web necesarias para el proyecto. Al ser una distribución basada en Debian, proporciona un entorno confiable para servicios de servidor web.\\
+\paragraph{\textbf{Apache HTTP Server}}
+El servidor HTTP Apache es un servidor web de código abierto multiplataforma. Apache es un servidor HTTP de código abierto, para plataformas Unix (BSD, GNU/Linux, etc.), Microsoft Windows, Macintosh y otras, que implementa el protocolo HTTP/1.1 y la noción de sitio virtual (The Apache Software Foundation, 2024).\\
+Apache es el servidor web más utilizado del mundo desde 1996. El Apache HTTP Server Project es un esfuerzo para desarrollar y mantener un servidor HTTP de código abierto para sistemas operativos modernos, incluyendo UNIX y Windows. El objetivo de este proyecto es proporcionar un servidor seguro, eficiente y extensible que proporcione servicios HTTP en sincronía con los estándares HTTP actuales (The Apache Software Foundation, 2024).\\
+En el contexto del proyecto, Apache actúa como el servidor web que procesa las peticiones HTTP, ejecuta los scripts PHP, y sirve el contenido HTML/CSS al navegador del cliente. La configuración de Apache en Xubuntu 22.04 LTS proporciona un entorno de producción estable y seguro para el sistema de gestión del gimnasio, permitiendo el acceso concurrente de múltiples usuarios y garantizando la disponibilidad del servicio.\\
 
 \subsubsection{Marco institucional}
 \paragraph{\textbf{Contexto de la industria del fitness}}
@@ -292,7 +301,7 @@ El establecimiento cuenta con una base de socios en expansión y ofrece diversos
 La problemática identificada en este gimnasio refleja situaciones similares en otros establecimientos de la región, donde la transición de sistemas manuales hacia soluciones digitalizadas representa una oportunidad de mejora significa-tiva en la calidad del servicio y la eficiencia operativa.
 \paragraph{\textbf{Requerimientos específicos del sector}}
 Los gimnasios requieren sistemas de información que integren múltiples aspectos operativos, incluyendo gestión de socios, control de accesos, programación de actividades, seguimiento de pagos y generación de reportes.\\
-La especificidad de estos requerimientos demanda soluciones tecnológicas adaptadas a las particularidades del sector deportivo.\\
+La especificidad de estos requerimientos demanda soluciones tecnológicas adaptadas a las particularidades del sector deportivo.
 La implementación exitosa de una base de datos para gimnasios debe considerar aspectos como la facilidad de uso para el personal administrativo, la integración con equipos de control de acceso, la capacidad de generar reportes au-tomatizados y la escalabilidad para acompañar el crecimiento del negocio.
 \newpage
 
@@ -583,18 +592,19 @@ El sistema está montado con una interfaz gráfica desarrollada en HTML, CSS, y 
 \setcounter{section}{4}
 \subsection{CONCLUSIONES Y RECOMENDACIONES}
 \subsubsection{Conclusiones}
-La implementación del sistema de base de datos para DINOS GYM ha demostrado ser una solución integral que responde efectivamente a las necesidades identificadas en el análisis inicial.\\ 
+La implementación del sistema de base de datos para NEW EVLOUTION DINO'S GYM ha demostrado ser una solución integral que responde efectivamente a las necesidades identificadas en el análisis inicial.\\ 
 A partir de los objetivos específicos planteados, se pueden establecer las siguientes conclusiones:
 \paragraph{En relación al análisis de requerimientos funcionales y de información:}
 Se identificaron exitosamente los requerimientos críticos del gimnasio, incluyendo la necesidad de gestionar información detallada de socios, control de asistencia automatizado, seguimiento de pagos y membresías, y generación de reportes automáticos. El análisis reveló que la base de datos anterior presentaba limitaciones significativas en términos de escalabilidad, seguridad y capacidad de reporting, lo cual justificó plenamente la necesidad de implementar una solución más robusta.
 \paragraph{Respecto al diseño del modelo de datos:}
 El modelo relacional desarrollado integra de manera coherente las entidades principales del negocio: clientes, planes, productos, ventas, asistencias, equipos y suscripciones. La aplicación de principios de normalización hasta la tercera forma normal garantiza la eliminación de redundancias y mantiene la integridad referencial. Las relaciones establecidas entre las tablas permiten consultas eficientes y reportes completos, facilitando la toma de decisiones basada en datos confiables.
-\paragraph{En cuanto a la implementación en MySQL:}
-La estructura de base de datos creada en MySQL proporciona un entorno estable y seguro para el manejo de la información. La implementación incluye restricciones de integridad, claves foráneas apropiadas y tipos de datos optimizados para cada campo. El sistema permite el almacenamiento eficiente de grandes volúmenes de información y facilita las operaciones de consulta, inserción, actualización y eliminación de datos.
+\paragraph{En cuanto a la mejora de integridad de la información:}
+El cambio del método de registro de manual a digital ha mejorado sustancialmente la integridad de la información almacenada en el sistema. La implementación de restricciones de integridad referencial mediante claves foráneas, validaciones de tipos de datos y reglas de negocio automatizadas ha eliminado los errores comunes asociados con la entrada manual de datos, tales como duplicación de registros, inconsistencias en formatos y pérdida de información. 
+El sistema garantiza que cada registro de cliente, membresía, pago o asistencia mantenga su coherencia y trazabilidad a lo largo de todo su ciclo de vida, proporcionando una base de datos confiable para la toma de decisiones administrativas.
 \paragraph{Sobre la optimización del procesamiento de consultas:}
 El diseño implementado permite un procesamiento más ágil de las consultas mediante la correcta indexación de campos clave, la estructura normalizada de las tablas y la definición adecuada de relaciones. Las consultas para generar reportes de asistencia, estados de membresías y análisis de ventas se ejecutan de manera eficiente, reduciendo significativamente los tiempos de respuesta comparados con el sistema anterior.
 \paragraph{Impacto general del proyecto:}
-La implementación del nuevo sistema de base de datos representa una mejora sustancial en la capacidad operativa de DINOS GYM. El sistema permite la automatización de procesos previamente manuales, reduce la posibilidad de errores humanos, facilita el acceso rápido a información crítica y proporciona herramientas de análisis que apoyan la gestión estratégica del negocio. Además, la escalabilidad del sistema asegura que pueda adaptarse al crecimiento futuro del gimnasio.
+La implementación del nuevo sistema de base de datos representa una mejora sustancial en la capacidad operativa de NEW EVLOUTION DINO'S GYM. El sistema permite la automatización de procesos previamente manuales, reduce la posibilidad de errores humanos, facilita el acceso rápido a información crítica y proporciona herramientas de análisis que apoyan la gestión estratégica del negocio. Además, la escalabilidad del sistema asegura que pueda adaptarse al crecimiento futuro del gimnasio.
 
 \subsubsection{Recomendaciones}
 Basándose en la experiencia obtenida durante el desarrollo e implementación del sistema, se formulan las siguientes recomendaciones para maximizar los beneficios de la solución implementada:\\
@@ -603,8 +613,8 @@ Es crucial establecer un protocolo robusto de respaldos automáticos diarios de 
 \paragraph{Expansión funcional:}
 Para futuras mejoras, se recomienda considerar la integración de funcionalidades adicionales como un módulo de comunicación con clientes (notificaciones automáticas de vencimiento de membresías), sistema de reserva de clases grupales, integración con dispositivos de control de acceso biométrico, y desarrollo de una aplicación móvil para clientes.\\
 \paragraph{Análisis de datos:}
-Aprovechar la capacidad de reporting del sistema para generar análisis regulares de tendencias de asistencia, patrones de consumo, efectividad de planes de membresía y satisfacción del cliente. Esta información debe utilizarse para tomar decisiones estratégicas sobre precios, horarios de operación, adquisición de equipos y desarrollo de nuevos servicios.\\ \\
-La implementación exitosa de estas recomendaciones asegurará que el sistema de base de datos para DINOS GYM continúe proporcionando valor agregado al negocio y se mantenga como una herramienta efectiva para la gestión integral del gimnasio.
+Aprovechar la capacidad de reporting del sistema para generar análisis regulares de tendencias de asistencia, patrones de consumo, efectividad de planes de membresía y satisfacción del cliente. Esta información debe utilizarse para tomar decisiones estratégicas sobre precios, horarios de operación, adquisición de equipos y desarrollo de nuevos servicios.\\
+La implementación exitosa de estas recomendaciones asegurará que el sistema de base de datos para NEW EVLOUTION DINO'S GYM continúe proporcionando valor agregado al negocio y se mantenga como una herramienta efectiva para la gestión integral del gimnasio.
 \newpage
 
 \section*{BIBLIOGRAFÍA}
@@ -699,6 +709,21 @@ Lamport, L. (2023). \textit{LaTeX: A Document Preparation System} (2ª ed.). Add
 
 \bibitem{oetiker2024}
 Oetiker, T., Partl, H., Hyna, I., \& Schlegl, E. (2024). \textit{The Not So Short Introduction to LaTeX2e}. Recuperado de https://tobi.oetiker.ch/lshort/lshort.pdf
+
+\bibitem{phpgroup2024}
+PHP Group. (2024). \textit{¿Qué es PHP?}. Recuperado de https://www.php.net/manual/es/intro-whatis.php
+
+\bibitem{xubuntu2024}
+Xubuntu Team. (2024). \textit{About Xubuntu}. Recuperado de https://xubuntu.org/about/
+
+\bibitem{canonical2024}
+Canonical Ltd. (2024). \textit{Ubuntu 22.04 LTS (Jammy Jellyfish)}. Recuperado de https://releases.ubuntu.com/22.04/
+
+\bibitem{apache2024}
+The Apache Software Foundation. (2024). \textit{Apache HTTP Server Project}. Recuperado de https://httpd.apache.org/
+
+\bibitem{apacheabout2024}
+The Apache Software Foundation. (2024). \textit{About the Apache HTTP Server Project}. Recuperado de https://httpd.apache.org/ABOUT\_APACHE.html
 
 \bibitem{phpgroup2024}
 PHP Group. (2024). \textit{¿Qué es PHP?}. Recuperado de https://www.php.net/manual/es/intro-whatis.php
